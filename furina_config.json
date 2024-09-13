@@ -1,0 +1,8 @@
+{
+    "driver_path": "C:/chromedriver-win64/chromedriver.exe",
+    "XAGtoken": "PUT-YOUR-XAG-TOKEN",
+    "xbltoken": "",
+    "minTypeSpeed": 0.2,
+    "maxTypeSpeed": 0.6,
+    "defaultTimeoutinSeconds": 1000
+}
