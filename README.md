@@ -18,4 +18,4 @@ Example:
 
 # How to us-
 
-This is basically my other repos combined in this, shouldnt be hard to use if you know what you're doing.
+This is basically my other repos combined in this (poorly, not effective), shouldnt be hard to use if you know what you're doing.
