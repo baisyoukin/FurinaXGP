@@ -19,3 +19,5 @@ Example:
 # How to us-
 
 This is basically my other repos combined in this (poorly, not effective), shouldnt be hard to use if you know what you're doing.
+
+![image](https://github.com/user-attachments/assets/b4b19358-a401-467b-9b6d-ba3fca7b5279)
